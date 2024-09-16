@@ -1,4 +1,4 @@
-# SIH-2024---Vasudhaiva-Kutumbakam
+# SIH-2024 - Vasudhaiva-Kutumbakam
 This is a prototype created by Team "Vasudhaiva Kutumbakam" for Smart India Hackathon 2024.
 
 AIM - 
